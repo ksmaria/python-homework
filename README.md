@@ -1,7 +1,7 @@
 # python-homework
-Repo for HW-Unit2: PyBank (Required Activity)
+HW-Unit2: PyBank (Required Activity)
 
-#Finacial Analysis <br>
+#Financial Analysis <br>
 
 Create a Python script for analyzing the financial records of your company using the budget_data.csv file. 
 This file contains full financial dataset of the company. This dataset is composed of two columns, Date and Profit/Losses.
@@ -17,13 +17,13 @@ The script should analyze the records to calculate:
 
 It should print the summary of the financial analysis to the terminal and export a text file with the results.
 
+# Results
 Your resulting analysis should look similar to the following:
 
-<quote> 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
+Financial Analysis <br>
+---------------------------- <br>
+Total Months: 86 <br>
+Average  Change: $-2315.12 <br>
+Greatest Increase in Profits: Feb-2012 ($1926159) <br>
+Greatest Decrease in Profits: Sep-2013 ($-2196167) <br>
+
